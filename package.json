@@ -1,6 +1,6 @@
 {
   "name": "rs-filewalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursively get a list of files (filenames and folder) for a given directory",
   "main": "index.js",
   "repository": {
