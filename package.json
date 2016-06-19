@@ -1,0 +1,21 @@
+{
+  "name": "rs-filewalk",
+  "version": "1.0.0",
+  "description": "Get a list of files and filenames for a given directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http"
+  },
+  "keywords": [
+    "file",
+    "list",
+    "filewalk",
+    "recursive"
+  ],
+  "author": "Richard Scoones <richardscoones@gmail.com>",
+  "license": "MIT"
+}
